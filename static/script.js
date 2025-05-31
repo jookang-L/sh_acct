@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const studentAccounts = {
         '20230101_홍길동': { id: 'honggildong@school.edu', pw: 'arsenal1234' },
         '20230102_김철수': { id: 'kimcheolsu@school.edu', pw: 'gunners5678' },
-        '20230103_박영희': { id: 'parkyeonghee@school.edu', pw: 'arsenalpass' }
+        '20230103_박영희': { id: 'parkyeonghee@school.edu', pw: 'arsenalpass' },
         '20230104_민정원': { id: 'jeongwon@school.edu', pw: 'arsenalpass' }
     };
 
